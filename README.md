@@ -15,8 +15,6 @@
 <a href="https://github.com/TheAnonymous2005/AnonXMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/TheAnonymous2005/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/36">
 </p>
 
 <h3 align="center">
