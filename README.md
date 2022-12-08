@@ -1,14 +1,13 @@
 <h2 align="center">
   
 ──「 sᴀᴡᴀɴ ᴍᴜsɪᴄ ʙᴏᴛ 」──
-</p>
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴀᴡᴀɴ ᴍᴜsɪᴄ ʙᴏᴛ[🇮🇳]](https://telegram.dog/sawanmusicbot)**_
+
 </h2>
 
 <p align="center">
   <img src="https://te.legra.ph/file/61d0dc165892269fc2df6.jpg">
 </p>
-
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴀᴡᴀɴ ᴍᴜsɪᴄ ʙᴏᴛ[🇮🇳]](https://telegram.dog/sawanmusicbot)**_
 <p align="center">
 <a href="https://github.com/TheAnonymous2005/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/TheAnonymous2005/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/TheAnonymous2005/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/TheAnonymous2005/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
