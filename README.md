@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「  」──
+    ──「 sᴀᴡᴀɴ ᴍᴜsɪᴄ ʙᴏᴛ 」──
 </h2>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+    ─「 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғᴏʀ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ 」─
 </h3>
 
 <p align="center"><a href="https://telegram.dog/pirokid"> <img src="https://img.shields.io/badge/Contact%20Us%20To Deploy-black?style=for-the-badge&logo=telegram" width="220" height="38.45"/></a></p>
